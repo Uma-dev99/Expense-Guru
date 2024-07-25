@@ -11,8 +11,8 @@
 ## Usage
 To enter a new expense:<br>
 
-Initiate the expense entry by informing the chatbot.<br>
-Provide the spending category, amount, and date when prompted.<br>
-Confirm the details once all information is provided.<br>
-If confirmed, the expense will be submitted, and a confirmation message will be displayed.<br>
-To cancel the expense entry, notify the chatbot at any step during the process.<br>
+1. Initiate the expense entry by informing the chatbot.<br>
+2. Provide the spending category, amount, and date when prompted.<br>
+3. Confirm the details once all information is provided.<br>
+4. If confirmed, the expense will be submitted, and a confirmation message will be displayed.<br>
+5. To cancel the expense entry, notify the chatbot at any step during the process.<br>
