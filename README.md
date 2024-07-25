@@ -16,3 +16,6 @@ To enter a new expense:<br>
 3. Confirm the details once all information is provided.<br>
 4. If confirmed, the expense will be submitted, and a confirmation message will be displayed.<br>
 5. To cancel the expense entry, notify the chatbot at any step during the process.<br>
+
+## Screenshot of Expense Tracking Assistant 
+
